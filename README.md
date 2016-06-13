@@ -1,11 +1,11 @@
-##Medicalize
+﻿##Medicalize
 
 ###About
 Class project for CPSC 542, California State University, Fullerton.
 Medicalize  is the most enhanced technique which enables the users(patients) to easily make appointments with the doctor’s and obtain best treatment.  
->Melina Devaraj &  Amruta Ghangale
+> Amruta Ghangale
 
-###Installation
+ & Melina Devaraj ###Installation
 Requirements: [PHP](http://php.net/) and [Composer](https://getcomposer.org/) (dependency manager for PHP)
 Clone this project from [GitHub](https://github.com/melinapaul/mrss).  
 ```cd``` into the root of the project folder and run
