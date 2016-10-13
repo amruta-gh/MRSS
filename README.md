@@ -34,15 +34,14 @@
 
 
 # Testing
-:
+
 
 1. Tools: Selenium Webriver for Black box testing.
 2. To run tests, run the command ```./vendor/bin/phpunit``` from the root of the project for white box unit testing.
 3. Note: You might need to comment out the line ```session_start();``` from the file ```/bootstrap/app.php``` while running the tests.
 
 
-
-- Official Laravel Documentation
+- Official Laravel Documentation-
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
