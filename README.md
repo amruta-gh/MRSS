@@ -7,12 +7,12 @@
 
 - MRSS is HIPAA compliant software application that simplifies the way patient’s charts are managed in the doctor's office.  
 - Benefits of MRSS Software are:
-a. Enable the reduction of the number of charts and filing cabinets in a doctor’s office.
-b. Physicians can spend more time with their patients and less time on documentation.  
-c. Can help reduce errors through better documentation and alerts. MRSS eliminates the task of looking for filing charts. 
-d. Can help physician’s speed up medication refills. 
-e. Aid in the management of reports and images such as doctor reports, labs, x-rays etc.
-f. Provide for secure data due to HIPAA laws; only doctors and patients can access specific patient information.
+1. Enable the reduction of the number of charts and filing cabinets in a doctor’s office.
+2. Physicians can spend more time with their patients and less time on documentation.  
+3. Can help reduce errors through better documentation and alerts. MRSS eliminates the task of looking for filing charts. 
+4. Can help physician’s speed up medication refills. 
+5. Aid in the management of reports and images such as doctor reports, labs, x-rays etc.
+6. Provide for secure data due to HIPAA laws; only doctors and patients can access specific patient information.
 
 
 # Installation
