@@ -32,7 +32,6 @@
 
 
 
-
 # Testing
 
 
@@ -45,9 +44,19 @@
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
+# Screenshots:
+----------------------------
+
+![first page](https://user-images.githubusercontent.com/19851044/29195954-4026cd1a-7de6-11e7-9dbb-6adb08d27b83.jpg)
+
+![register](https://user-images.githubusercontent.com/19851044/29195956-42085f4a-7de6-11e7-91ef-87a952884174.gif)
+
+![doctors](https://user-images.githubusercontent.com/19851044/29195958-4420fff8-7de6-11e7-8343-4cc36afe2fab.jpg)
+
+![blog](https://user-images.githubusercontent.com/19851044/29195959-457801ee-7de6-11e7-8ad6-fd03094d3b3b.jpg)
 
 -------------------------------------------------
 
-> Amruta Ghangale
+> Amruta 
 
-  > Melina Devaraj
+> Melina 
